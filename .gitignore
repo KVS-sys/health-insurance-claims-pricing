@@ -1,0 +1,19 @@
+# Local member-level data and database files
+/medical_insurance.csv
+/health_analysis_base.csv
+*.sqlite
+*.sqlite-*
+*.db
+
+# RStudio session state and backups
+.Rproj.user/
+.RData
+.RDataTmp
+.Rhistory
+Rplots.pdf
+backups/
+*.bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
